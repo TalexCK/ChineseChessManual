@@ -1,0 +1,2 @@
+# ChineseChessManual
+存放适用于ChineseChess项目的棋谱，任何人都可以请求提交
